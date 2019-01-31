@@ -1,3 +1,4 @@
+```
 1. Factotum
 Pronunciation: fak-toh-tuh m
 Meaning: An employee or official who has various different responsibilities to handle
@@ -692,4 +693,4 @@ Meaning: Uneasiness about the fitness of an action
 Synonyms: misgiving, scruple, uncertainty, demur, queasiness
 Antonyms: confidence, certitude, assuredness, brashness, constancy
 Usage: The poison is killing them but they are willing to swallow it without a slight qualm (Source: Eastern Mirror)
-
+```
